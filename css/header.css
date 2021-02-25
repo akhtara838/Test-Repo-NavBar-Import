@@ -46,6 +46,8 @@
     font-weight: bold;
     color:white;
     font-family: 'Open Sans',sans-serif;
+    position: relative;
+    bottom: 28px;
     
 }
 a:hover
